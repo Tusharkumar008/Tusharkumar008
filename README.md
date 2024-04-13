@@ -7,7 +7,8 @@ With hands-on experience in harnessing the power of data, I thrive on translatin
 Proficient in languages such as Python and frameworks like TensorFlow and PyTorch, I navigate the complexities of AI with confidence.
 My toolbox includes a range of data science and machine learning tools, ensuring versatility in addressing diverse challenges. 
 I am committed to contributing to the broader AI and ML community. 
-I strive to be an active participant in the ever-evolving landscape of artificial intelligence.</h3>
+I strive to be an active participant in the ever-evolving landscape 
+of artificial intelligence.</h3>
 
 <h3 align="center"> SKILLS </h3>
 <p align="center">
