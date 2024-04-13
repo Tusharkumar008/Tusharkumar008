@@ -10,7 +10,7 @@ I am committed to contributing to the broader AI and ML community.
 I strive to be an active participant in the ever-evolving landscape 
 of artificial intelligence.</h3>
 
-<h3 align="center"> SKILLS </h3>
+<h2 align="center"> SKILLS </h2>
 <p align="center">
 </p>
 
