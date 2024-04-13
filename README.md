@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Kumar</h1>
 <h2 align="center">AI & ML Engineer | Steering Innovation with TensorFlow Expertise |Tech Explorer| Software engineer🌐💻</h2>
-<h3 align="center">Passionate about the intersection of technology and intelligence, I have specialized in developing and deploying Artificial Intelligence and Machine Learning models. With hands-on experience in harnessing the power of data, I thrive on translating complex concepts into tangible, impactful solutions.
-Proficient in languages such as Python and frameworks like TensorFlow and PyTorch, I navigate the complexities of AI with confidence. My toolbox includes a range of data science and machine learning tools, ensuring versatility in addressing diverse challenges. I am committed to contributing to the broader AI and ML community. I strive to be an active participant in the ever-evolving landscape of artificial intelligence.</h3>
+<img align="right" alt="coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<h3 align="left">Passionate about the intersection of technology and intelligence, 
+I have specialized in developing and deploying Artificial Intelligence and Machine Learning models.
+With hands-on experience in harnessing the power of data, I thrive on translating complex concepts into tangible, impactful solutions.
+Proficient in languages such as Python and frameworks like TensorFlow and PyTorch, I navigate the complexities of AI with confidence.
+My toolbox includes a range of data science and machine learning tools, ensuring versatility in addressing diverse challenges. 
+I am committed to contributing to the broader AI and ML community. 
+I strive to be an active participant in the ever-evolving landscape of artificial intelligence.</h3>
 
 <h3 align="center"> SKILLS </h3>
 <p align="center">
