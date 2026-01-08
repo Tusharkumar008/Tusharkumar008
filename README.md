@@ -33,23 +33,6 @@ I am an Artificial Intelligence and Machine Learning Engineer with a B.Tech in A
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 🍂 **Bio-Lens**
-*An AI-powered solution for plant disease detection.*
-- Leveraged Deep Learning/Computer Vision to identify plant diseases from leaf images.
-- Aims to assist farmers in early detection and crop protection.
-- **Tech Stack:** Python, CNNs, Image Processing.
-
-#### 🥗 **NutriSense**
-*An intelligent food component detection system.*
-- Analyzes food images to detect ingredients and estimate nutritional components.
-- Designed to promote healthier dietary habits through AI analysis.
-- **Tech Stack:** Python, Machine Learning, Object Detection.
-
 ---
 
 ### 📈 GitHub Stats
@@ -60,5 +43,5 @@ I am an Artificial Intelligence and Machine Learning Engineer with a B.Tech in A
 ---
 
 ### 📫 Connect with Me
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />](YOUR_LINKEDIN_URL)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' />](mailto:YOUR_EMAIL)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tusharkumar08/))
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' />](mailto:tusharkumar5021@gmail.com)
