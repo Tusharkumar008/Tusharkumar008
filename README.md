@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm TUSHAR KUMAR 👋
 
 ### 👨‍💻 AI/ML Engineer | Data Analyst | MLOps Enthusiast
 
