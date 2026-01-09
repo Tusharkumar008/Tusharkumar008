@@ -38,14 +38,22 @@ I am an Artificial Intelligence and Machine Learning Engineer with a B.Tech in A
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tusharkumar08/))
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' />](mailto:tusharkumar5021@gmail.com)
 
-## 🎖️ GitHub Achievements
-
-<div align="center">
+<div align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" alt="Pull Shark" title="Pull Shark: Merged a Pull Request" />
-  
+
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100px" alt="YOLO" title="YOLO: Merged without code review" />
-  
+
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" alt="Quickdraw" title="Quickdraw: Closed an issue within 5 mins" />
-  
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100px" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored a commit" />
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100px" alt="Galaxy Brain" title="Galaxy Brain: Accepted answer in discussions" />
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100px" alt="Arctic Code Vault" title="Arctic Code Vault Contributor" />
+
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100px" alt="Starstruck" title="Starstruck: Created a repo with 16+ stars" />
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="100px" alt="Public Sponsor" title="Public Sponsor: Sponsored an open source project" />
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="100px" alt="Mars 2020" title="Mars 2020 Helicopter Mission" />
 </div>
