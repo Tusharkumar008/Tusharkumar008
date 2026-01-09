@@ -37,3 +37,15 @@ I am an Artificial Intelligence and Machine Learning Engineer with a B.Tech in A
 ### 📫 Connect with Me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tusharkumar08/))
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' />](mailto:tusharkumar5021@gmail.com)
+
+## 🎖️ GitHub Achievements
+
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" alt="Pull Shark" title="Pull Shark: Merged a Pull Request" />
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100px" alt="YOLO" title="YOLO: Merged without code review" />
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" alt="Quickdraw" title="Quickdraw: Closed an issue within 5 mins" />
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100px" alt="Starstruck" title="Starstruck: Created a repo with 16+ stars" />
+</div>
